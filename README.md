@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm ANAS AKIL</h1>
 <h3 align="center">A passionate Full stack developer web & mobile from salé ,morocco</h3>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anasakil" alt="anasakil" /></a> </p>
+
 - 👨‍💻 All of my projects are available at [https://github.com/anasakil/](https://github.com/anasakil/)
 
 - 📫 How to reach me **farawiakil@gmail.com**
