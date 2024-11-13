@@ -100,6 +100,5 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/anasakil/anasakil/output/snake.svg" alt="Snake animation" />
 
 ###
